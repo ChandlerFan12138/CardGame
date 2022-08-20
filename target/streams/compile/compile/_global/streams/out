@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mD:\ITSD-DT2022-Template\app\structures\basic\SpellCard.java:32:1: 找不到符号[0m
+[0m[[0m[31merror[0m] [0m[0m  符号:   变量 SpellCard[0m
+[0m[[0m[31merror[0m] [0m[0m  位置: 类型为structures.GameState的变量 gameState[0m
+[0m[[0m[31merror[0m] [0m[0mgameState.SpellCard[0m

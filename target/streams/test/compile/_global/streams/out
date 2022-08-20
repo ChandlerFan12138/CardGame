@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mD:\ITSD-DT2022-Template\test\SpellcardTest.java:37:1: 无法将类 structures.basic.SpellCard中的方法 play应用到给定类型;[0m
+[0m[[0m[31merror[0m] [0m[0m  需要: akka.actor.ActorRef,structures.GameState,int,int[0m
+[0m[[0m[31merror[0m] [0m[0m  找到: <nulltype>,structures.GameState,com.fasterxml.jackson.databind.node.ObjectNode[0m
+[0m[[0m[31merror[0m] [0m[0m  原因: 实际参数列表和形式参数列表长度不同[0m
+[0m[[0m[31merror[0m] [0m[0mspellcard.play[0m

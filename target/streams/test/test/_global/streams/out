@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mjavaOptions: Vector()[0m
+[0m[[0m[0mdebug[0m] [0m[0mForking tests - parallelism = false[0m
+[0m[[0m[0mdebug[0m] [0m[0mCreate a single-thread test executor[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunner for com.novocode.junit.JUnitFramework produced 4 initial tasks for 4 tests.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(OtherClickedTest, sbt.ForkMain$AnnotatedFingerscan@37768ab9, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mOtherClickedTest[0m.[36mcheckotherclicked[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mOtherClickedTest[0m.[36mcheckotherclicked[0m finished, took 7.777 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 7.787s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(InitalizationTest, sbt.ForkMain$AnnotatedFingerscan@324bebd, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mInitalizationTest[0m.[36mcheckInitalized[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mInitalizationTest[0m.[36mcheckInitalized[0m finished, took 7.071 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 7.072s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(EndturnTest, sbt.ForkMain$AnnotatedFingerscan@6554cb80, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mEndturnTest[0m.[36mspellcard[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mEndturnTest[0m.[36mspellcard[0m finished, took 12.657 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 12.659s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0m  Running TaskDef(HeartbeatTest, sbt.ForkMain$AnnotatedFingerscan@35cdab98, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run started[0m[0m
+[0m[[0m[0minfo[0m] [0m[0mTest [33mHeartbeatTest[0m.[36mheartbeat[0m started[0m
+[0m[[0m[0mdebug[0m] [0m[0mTest [33mHeartbeatTest[0m.[36mheartbeat[0m finished, took 7.065 sec[0m
+[0m[[0m[0minfo[0m] [0m[0m[34mTest run finished: [0m[34m0 failed[0m[34m, [0m[34m0 ignored[0m[34m, 1 total, 7.067s[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0m    Produced 0 nested tasks and 1 events.[0m
+[0m[[0m[0mdebug[0m] [0m[0mSummary for JUnit not available.[0m
+[0m[[0m[0minfo[0m] [0m[0mPassed: Total 4, Failed 0, Errors 0, Passed 4[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	EndturnTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	OtherClickedTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	InitalizationTest[0m
+[0m[[0m[0mdebug[0m] [0m[0m	HeartbeatTest[0m
